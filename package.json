@@ -1,0 +1,16 @@
+{
+  "name": "03-basesnode",
+  "version": "0.0.3",
+  "description": "tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base7": "node app.js --base=7"
+  },
+  "author": "Eric Guzman",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
